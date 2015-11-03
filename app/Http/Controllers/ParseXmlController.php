@@ -24,6 +24,8 @@ class ParseXmlController extends Controller
 
             break;
         }
+
+        //Get the itens array()
         /*echo "<pre>";
         print_r($parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY->ITEMS);
         echo "<pre>";*/
