@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d532c92709795c4216b0924a0448a264",
-    "content-hash": "efa5e731ce419595452d7d261e56b3c6",
+    "hash": "17a5c96ceed7d6e77d72b02f83a2ba20",
+    "content-hash": "141f7a7800b91ce4471c2f043874fdca",
     "packages": [
         {
             "name": "anhskohbo/no-captcha",
@@ -1054,61 +1054,6 @@
                 "schedule"
             ],
             "time": "2015-01-11 23:07:46"
-        },
-        {
-            "name": "nathanmac/parser",
-            "version": "v3.10",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/nathanmac/Parser.git",
-                "reference": "5472cc6bae23b89e9a9764db8ff0dc475b7006e8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/nathanmac/Parser/zipball/5472cc6bae23b89e9a9764db8ff0dc475b7006e8",
-                "reference": "5472cc6bae23b89e9a9764db8ff0dc475b7006e8",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/support": "~5.0",
-                "php": ">=5.3.0",
-                "symfony/yaml": "~2.0"
-            },
-            "require-dev": {
-                "mockery/mockery": "0.9.3",
-                "phpunit/phpunit": "4.*",
-                "scrutinizer/ocular": "^1.1"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Nathanmac\\Utilities\\Parser\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Nathan Macnamara",
-                    "email": "hello@nathanmac.com"
-                }
-            ],
-            "description": "Simple PHP Parser Utility Library for API Development",
-            "homepage": "https://github.com/nathanmac/Parser",
-            "keywords": [
-                "api",
-                "json",
-                "parser",
-                "xml"
-            ],
-            "time": "2015-10-03 21:34:42"
         },
         {
             "name": "nesbot/carbon",
@@ -2175,52 +2120,6 @@
                 "dump"
             ],
             "time": "2015-10-25 17:17:38"
-        },
-        {
-            "name": "symfony/yaml",
-            "version": "v2.7.6",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/yaml.git",
-                "reference": "eca9019c88fbe250164affd107bc8057771f3f4d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/eca9019c88fbe250164affd107bc8057771f3f4d",
-                "reference": "eca9019c88fbe250164affd107bc8057771f3f4d",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.9"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "2.7-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Symfony\\Component\\Yaml\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                },
-                {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                }
-            ],
-            "description": "Symfony Yaml Component",
-            "homepage": "https://symfony.com",
-            "time": "2015-10-11 09:39:48"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -3444,6 +3343,52 @@
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
             "time": "2015-06-21 13:59:46"
+        },
+        {
+            "name": "symfony/yaml",
+            "version": "v2.7.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/yaml.git",
+                "reference": "eca9019c88fbe250164affd107bc8057771f3f4d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/eca9019c88fbe250164affd107bc8057771f3f4d",
+                "reference": "eca9019c88fbe250164affd107bc8057771f3f4d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.9"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.7-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Yaml\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Yaml Component",
+            "homepage": "https://symfony.com",
+            "time": "2015-10-11 09:39:48"
         }
     ],
     "aliases": [],

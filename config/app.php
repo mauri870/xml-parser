@@ -170,9 +170,6 @@ return [
          * */
         Laracasts\Flash\FlashServiceProvider::class,
 
-        /*Parser
-         * */
-        Nathanmac\Utilities\Parser\ParserServiceProvider::class
 
     ],
 
@@ -235,9 +232,6 @@ return [
 
         //Laracasts Flash
         'Flash' => Laracasts\Flash\Flash::class,
-
-        //Parser
-        'Parser' => Nathanmac\Utilities\Parser\Facades\Parser::class,
 
     ],
 
