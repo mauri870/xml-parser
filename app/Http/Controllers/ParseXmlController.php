@@ -9,6 +9,8 @@ use Nathanmac\Utilities\Parser\Facades\Parser;
 
 class ParseXmlController extends Controller
 {
+    public $parser;
+
     private $codigo,
         $descricao,
         $cliente,
@@ -28,27 +30,60 @@ class ParseXmlController extends Controller
 
     public function __construct()
     {
-
     }
 
     public function index()
     {
-        $parser = simplexml_load_file('img/cozinha.xml');
-        foreach($parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY->ITEMS->ITEM as $item){
-            echo "<pre>";
-            print_r(str_replace(' ','_',$item->attributes()->DESCRIPTION[0]));
-            echo "<pre>";
+        $this->parser = simplexml_load_file('img/cozinha.xml');
 
-            break;
+        /*foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY->ITEMS->ITEM as $item){
+             $this->setDescricao($this->getItemDescription($item));
+             $this->getClientName();
+
+
+
+            echo $this->getDescricao().'<br>'.$this->getClientName();
+            echo '<hr>';
+        }*/
+
+        $i = 0;
+        foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
+            if($category->attributes()->DESCRIPTION == "Cozinhas"){
+                foreach($category->ITEMS->ITEM as $item){
+                    $this->setDescricao($this->getItemDescription($item));
+                    $this->setCliente($this->getClientName());
+                    $total_items[$i] = ['descricao'=>$this->getDescricao(),'cliente'=>$this->getCliente()];
+                    $i++;
+                }
+            }
         }
 
         //Get the itens array()
-        /*echo "<pre>";
-        print_r($parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY->ITEMS);
-        echo "<pre>";*/
+        echo "<pre>";
+            print_r($total_items)  ;
+        echo "<pre>";
 
 
         /*return view('welcome');*/
+    }
+
+
+    /**
+     * Get the description from XML file based on ITEM object
+     *
+     * @param $item
+     * @return mixed
+     */
+    public function getItemDescription($item){
+        return str_replace(' ','_',$item->attributes()->DESCRIPTION[0]);
+    }
+
+    /**
+     * Get the client name from XML file
+     * @return mixed
+     */
+    public function getClientName(){
+        return (string)$this->parser->CUSTOMERSDATA->DATA[4]->attributes()->VALUE;
     }
 
 
