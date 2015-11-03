@@ -170,6 +170,11 @@ return [
          * */
         Laracasts\Flash\FlashServiceProvider::class,
 
+        /*
+         * Excel
+         * */
+        Maatwebsite\Excel\ExcelServiceProvider::class,
+
 
     ],
 
@@ -232,6 +237,9 @@ return [
 
         //Laracasts Flash
         'Flash' => Laracasts\Flash\Flash::class,
+
+        //Excel
+        'Excel' => Maatwebsite\Excel\Facades\Excel::class,
 
     ],
 
