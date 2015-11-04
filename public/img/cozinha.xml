@@ -1,0 +1,1764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LISTING CUSTOMERNUMBER="11" DESCRIPTION="Listagem-Explodido" DATE="20/11/2014" HOUR="21:15:24" CLIENTLOGO="%pastasistema%\identity\logoCliente.gif" CURRENCYSYMBOL="R$" IDTYPE="Listagem_explosao" UNIT="MM" AMBIENTS="2\0" QUANTITYINCREASE="N" DEFAULTPRICETABLEUSED="Y" ONLYSELECTEDITEMS="N" ALLOWSUPPLEMENTARYITEMS="Y" ALLOWEXTRAITEMS="Y" HASNOTAVAILABLEITEMS="N" HASCHANGEDDIMENSIONITEMS="N">
+  <PROJECTGUID GUID="f20add7c-8f37-42c2-b21a-5dab3bfe4d97" />
+  <ABOUTPROMOB VERSION="5" REVISION="36" BUILD="7" SYSTEM="Plus" DISTRIBUTION="Plus" SERIALNUMBER="26562747" PRODUCTCODE="3O64NG9XP4" CUSTOMERNUMBER="274" SYSTEMREVISION="19/09/2014 17:36:46">
+    <LIBRARIES>
+      <LIBRARY LINE="lofra" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="acessorios" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="cozinhas" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="pux_tor" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Vita" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="blum" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="fgv" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="debacco" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="mabe" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="brastemp" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="salvatore" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="smeg" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="reval" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Ezdoor" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="consul" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="pux_obi" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="banheiros" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="puxadores" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="Alumiglass" REVISION="R03" VERSION="2014" />
+      <LIBRARY LINE="fischer" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="sofisticato" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="mad_mad" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="cinex" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="sis_dur" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="perlare" REVISION="R03" VERSION="2014" />
+      <LIBRARY LINE="mondiale" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="bosch" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="omp" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="dormitorios" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="sai_cla" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="sultec" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="persol" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Aramados Jomer" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="hettich" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="masotti" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="arix" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="crissair" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="incomaq" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="casavitra" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="wp" REVISION="R03" VERSION="2014" />
+      <LIBRARY LINE="decore" REVISION="2014_09" VERSION="2014" />
+      <LIBRARY LINE="salas" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="Pux_usitop" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="rubinettos" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="ron" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="panizzi" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="mekal" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Tramontina" REVISION="LP 13/2013" VERSION="2014" />
+      <LIBRARY LINE="bibliotecas" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="Masutti_Copat" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="cad_cad" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="suggar" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Finesse" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="ancezki" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="falmec" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="origin" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="tra_mov" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="estofados" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="elettromec" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="portabille" REVISION="R03" VERSION="2014" />
+      <LIBRARY LINE="pux_zen" REVISION="R03" VERSION="2014" />
+      <LIBRARY LINE="esquadrimed" REVISION="R02" VERSION="2014" />
+      <LIBRARY LINE="escritorios" REVISION="R20" VERSION="2014" />
+      <LIBRARY LINE="brasilpost" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="sis_cos" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="tidelli" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="franke" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="Cata" REVISION="R01" VERSION="2014" />
+      <LIBRARY LINE="ele_ele" REVISION="R04" VERSION="2014" />
+    </LIBRARIES>
+  </ABOUTPROMOB>
+  <CUSTOMERSDATA>
+    <DATA ID="cep" VALUE="" />
+    <DATA ID="uf" VALUE="" />
+    <DATA ID="rep_telefoneempresa" VALUE="" />
+    <DATA ID="rep_cidadeempresa" VALUE="" />
+    <DATA ID="nomecliente" VALUE="Mauri" />
+    <DATA ID="observacoes" VALUE="" />
+    <DATA ID="fone" VALUE="" />
+    <DATA ID="bairro" VALUE="" />
+    <DATA ID="codcliente" VALUE="" />
+    <DATA ID="rep_contatoempresa" VALUE="" />
+    <DATA ID="endentrega" VALUE="" />
+    <DATA ID="email" VALUE="" />
+    <DATA ID="rep_cepenpresa" VALUE="" />
+    <DATA ID="rep_emailempresa" VALUE="" />
+    <DATA ID="rep_ufempresa" VALUE="" />
+    <DATA ID="rep_bairroempresa" VALUE="" />
+    <DATA ID="cpfcnpj" VALUE="" />
+    <DATA ID="endereco" VALUE="" />
+    <DATA ID="rep_nomeempresa" VALUE="" />
+    <DATA ID="cidade" VALUE="" />
+    <DATA ID="celular" VALUE="" />
+    <DATA ID="rep_enderecoempresa" VALUE="" />
+  </CUSTOMERSDATA>
+  <TOTALPRICES />
+  <AMBIENTS>
+    <AMBIENT GUID="d4230591-8e8d-4a9e-8eac-67a598a09069" DESCRIPTION="Salas - 3D" UNIQUEID="2\0">
+      <TOTALPRICES />
+      <MODELINFORMATIONS>
+        <MODELCATEGORYINFORMATIONS>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Cozinhas">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Caixas" ID="coz_mod_caixas">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Cores&gt;Branco" ID="coz_mod_cores;coz_branco" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Acabamento - Reta" ID="coz_mod_portas_reta">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Cores&gt;Branco" ID="coz_mod_cores;coz_branco" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Portas" ID="coz_port_fre_ret">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="Madeira\Reta" ID="coz_ret_fre_ret_ret" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+              <MODELINFORMATION DESCRIPTION="Frentes" ID="coz_port_fre_fre">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="1 Puxador\Madeira\Reta" ID="coz_port_fre_fre_ret" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Puxadores">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Puxadores" ID="puxadores">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="14" ID="coz_port_frent_pux_PU_14" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Hettich">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Pistões" ID="het_ocu_pis">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="9079618" ID="het_ocu_pis_9079618" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+          <MODELCATEGORYINFORMATION DESCRIPTION="Acessórios">
+            <MODELINFORMATIONS>
+              <MODELINFORMATION DESCRIPTION="Corrediças" ID="aces_fer_cor">
+                <MODELTYPEINFORMATIONS>
+                  <MODELTYPEINFORMATION DESCRIPTION="500 Telescópica" ID="aces_fer_cor_telesc" />
+                </MODELTYPEINFORMATIONS>
+              </MODELINFORMATION>
+            </MODELINFORMATIONS>
+          </MODELCATEGORYINFORMATION>
+        </MODELCATEGORYINFORMATIONS>
+      </MODELINFORMATIONS>
+      <CATEGORIES>
+        <CATEGORY DESCRIPTION="Acessórios">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="aces_fer_cor_telesc" DESCRIPTION="Corrediça Telescópica 500" OBSERVATIONS="" REFERENCE="1.1089.500" UNIT="UN" REPETITION="4" QUANTITY="1" WIDTH="1" HEIGHT="1" DEPTH="500" TEXTDIMENSION="1 x 1 x 500" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Corrediças" GUIDBUILDER="9d0bf59a-53f1-4bc2-947e-24c9aee338c2" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Acessorios\corredicas\telesc.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="285" UNIQUEPARENTID="-2" GUID="53c5bbea-2841-4072-8a4c-6efd3571474a" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="285;286;287;284" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.1089.500" />
+                <PRICE REFERENCE="1.1089.500" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="aces_fer_dob" DESCRIPTION="Dobradiça" OBSERVATIONS="" REFERENCE="1.1086.000" UNIT="UN" REPETITION="13" QUANTITY="1" WIDTH="1" HEIGHT="1" DEPTH="1" TEXTDIMENSION="1 x 1 x 1" COMPONENT="N" STRUCTURE="N" FAMILY="Acessórios" GROUP="Ferragens" GUIDBUILDER="eb2cf8fe-0f3b-4c7b-9ca5-623fb80abe21" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\Acessorios\ferragens\dobradica.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="302" UNIQUEPARENTID="-2" GUID="1b723684-9aa7-497a-989c-97a35e090af1" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="302;195;196;200;201;487;488;530;531;614;296;297;301" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.1086.000" />
+                <PRICE REFERENCE="1.1086.000" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Cozinhas">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="coz_sup_baix_arm_1p_basc" DESCRIPTION="Armário 1 Porta Basculante" OBSERVATIONS="" REFERENCE="1.0082.806.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="806" HEIGHT="380" DEPTH="350" TEXTDIMENSION="806 x 380 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" GUIDBUILDER="bce8ddac-9531-4b81-8579-c40216c10dde" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Sup_Baixos\Armarios\1p_basc.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="588" UNIQUEPARENTID="-2" GUID="aa3027e1-63bd-4356-9000-c388ae92cd00" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0082.806.Branco" />
+                <PISTAO REFERENCE="False" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0082.806.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_sup_arm" DESCRIPTION="Caixa Armário" OBSERVATIONS="" REFERENCE="1.0245.806.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="806" HEIGHT="380" DEPTH="350" TEXTDIMENSION="806 x 380 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" GUIDBUILDER="80afd932-b8c6-4f75-89cc-9974e2d2da32" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\superiores\armario_1.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="589" UNIQUEPARENTID="588" GUID="034f3bcc-0725-4ced-9dea-4b2e13c800b3" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0245.806.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0245.806.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.27" WIDTH="770" HEIGHT="18" DEPTH="350" TEXTDIMENSION="770 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="becd0306-3337-4c78-856f-b187bf3cb756" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="591" UNIQUEPARENTID="589" GUID="acbd8d5b-fdf7-41fd-8ffb-ed7e0627986b" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="591;590" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.3" WIDTH="796" HEIGHT="6" DEPTH="370" TEXTDIMENSION="796 x 6 x 370" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="8ecced97-ec9c-4f9e-bec4-1b80743a6c42" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="592" UNIQUEPARENTID="589" GUID="a2f4ef48-d806-4f06-974a-e25c422370ed" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_sup" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.14" WIDTH="380" HEIGHT="18" DEPTH="350" TEXTDIMENSION="380 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="46c883f9-4d90-4bf5-bdab-a549374f5335" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="594" UNIQUEPARENTID="589" GUID="fa2b3c52-ff62-4a8a-b926-fc42b170ccc9" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="594;593" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <VISTAS REFERENCE="True" />
+                        <MOLDURAS REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_basc_ret_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.29" WIDTH="786" HEIGHT="18" DEPTH="360" TEXTDIMENSION="786 x 18 x 360" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="de4b6561-1e61-43ee-93a7-5c54306d1452" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Retas_basc\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="595" UNIQUEPARENTID="588" GUID="5890d5f0-cfc8-4fdd-819d-6aade74550f3" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <PISTAO2 REFERENCE="False" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_sup_baix_arm_1p_basc" DESCRIPTION="Armário 1 Porta Basculante" OBSERVATIONS="" REFERENCE="1.0082.806.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="806" HEIGHT="400" DEPTH="350" TEXTDIMENSION="806 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" GUIDBUILDER="883f9011-b46f-4149-9796-a184633eb99a" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Sup_Baixos\Armarios\1p_basc.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="587" UNIQUEPARENTID="-2" GUID="bf82167c-7210-4084-89db-eb4e203e672f" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0082.806.Branco" />
+                <PISTAO REFERENCE="False" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0082.806.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_sup_arm" DESCRIPTION="Caixa Armário" OBSERVATIONS="" REFERENCE="1.0245.806.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="806" HEIGHT="400" DEPTH="350" TEXTDIMENSION="806 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" GUIDBUILDER="5efa01a6-cf12-4ee3-a70a-cac4f7a1e55b" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\superiores\armario_1.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="580" UNIQUEPARENTID="587" GUID="df85b7ac-6fa7-486d-9bf7-869467e5a1b9" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0245.806.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0245.806.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.27" WIDTH="770" HEIGHT="18" DEPTH="350" TEXTDIMENSION="770 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="36471bf5-5f4e-484c-a809-8c253cf9f766" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="576" UNIQUEPARENTID="580" GUID="4ca03ae3-e3aa-4da3-967b-48e61d96f1f1" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="576;575" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.32" WIDTH="796" HEIGHT="6" DEPTH="390" TEXTDIMENSION="796 x 6 x 390" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="c4f83d05-308e-456e-94d7-0d5b3d673b47" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="577" UNIQUEPARENTID="580" GUID="a8a69104-9222-47b0-afef-8c4a722e2730" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_sup" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.14" WIDTH="400" HEIGHT="18" DEPTH="350" TEXTDIMENSION="400 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="50795cdc-d703-4c13-b687-99adeb9868e4" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="579" UNIQUEPARENTID="580" GUID="7c18975e-1d41-45e1-981f-82aa242823f9" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="579;578" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <VISTAS REFERENCE="True" />
+                        <MOLDURAS REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_basc_ret_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.3" WIDTH="786" HEIGHT="18" DEPTH="380" TEXTDIMENSION="786 x 18 x 380" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="b0609b36-3305-4bbf-9f9f-5a1c52a24103" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Retas_basc\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="583" UNIQUEPARENTID="587" GUID="7064644a-714c-4ee9-88cf-d739c52060f5" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <PISTAO2 REFERENCE="False" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_sup_baix_arm_1p_basc" DESCRIPTION="Armário 1 Porta Basculante" OBSERVATIONS="" REFERENCE="1.0082.650.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="650" HEIGHT="400" DEPTH="350" TEXTDIMENSION="650 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" GUIDBUILDER="7968af79-c3af-46f2-8c11-30afc5600483" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Sup_Baixos\Armarios\1p_basc.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="545" UNIQUEPARENTID="-2" GUID="54b42712-b01b-4260-92ef-9e22140b970a" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0082.650.Branco" />
+                <PISTAO REFERENCE="False" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0082.650.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_sup_arm" DESCRIPTION="Caixa Armário" OBSERVATIONS="" REFERENCE="1.0245.650.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="650" HEIGHT="400" DEPTH="350" TEXTDIMENSION="650 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" GUIDBUILDER="bc024b1e-9268-44ea-bbfc-0807f1bc687b" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\superiores\armario_1.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="538" UNIQUEPARENTID="545" GUID="d04dfc48-ad53-48a8-b24b-bf8025f4dfab" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0245.650.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0245.650.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.22" WIDTH="614" HEIGHT="18" DEPTH="350" TEXTDIMENSION="614 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="55be9a0e-da92-45f5-918e-3ffd7a3a4d61" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="534" UNIQUEPARENTID="538" GUID="23d213d8-c4e4-422b-9d6f-e0ea9c0776de" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="534;533" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.25" WIDTH="640" HEIGHT="6" DEPTH="390" TEXTDIMENSION="640 x 6 x 390" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="878380e9-36fd-4c79-9400-972cdfc505d3" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="535" UNIQUEPARENTID="538" GUID="193e2221-dec9-44a3-85e3-ff311939bbcd" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_sup" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.14" WIDTH="400" HEIGHT="18" DEPTH="350" TEXTDIMENSION="400 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="b17289f4-098d-4211-8e31-67c4fddb0059" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="537" UNIQUEPARENTID="538" GUID="361bd729-d02f-4669-bbb2-5a674274656c" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="537;536" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <VISTAS REFERENCE="True" />
+                        <MOLDURAS REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_basc_ret_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.24" WIDTH="630" HEIGHT="18" DEPTH="380" TEXTDIMENSION="630 x 18 x 380" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="62082b38-dfaf-4daf-ab87-bd1fc3631bbf" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Retas_basc\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="541" UNIQUEPARENTID="545" GUID="62503b5a-9fb6-4446-9ab6-04f5addc34fb" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0309.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <PISTAO2 REFERENCE="False" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_sup_baix_arm_1p_basc" DESCRIPTION="Armário 1 Porta Basculante" OBSERVATIONS="" REFERENCE="1.0082.650.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="650" HEIGHT="400" DEPTH="350" TEXTDIMENSION="650 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Armários" GUIDBUILDER="c1fb7eea-be6f-4d0e-9821-f39fb16c9d0d" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Sup_Baixos\Armarios\1p_basc.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="352" UNIQUEPARENTID="-2" GUID="1e1b6257-001c-4673-aac1-b716b8942d0c" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0082.650.Branco" />
+                <PISTAO REFERENCE="False" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0082.650.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_sup_arm" DESCRIPTION="Caixa Armário" OBSERVATIONS="" REFERENCE="1.0245.650.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="650" HEIGHT="400" DEPTH="350" TEXTDIMENSION="650 x 400 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Superiores" GUIDBUILDER="883d94cc-d121-47af-ba25-ffb76d4e4fe4" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\superiores\armario_1.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="345" UNIQUEPARENTID="352" GUID="8595c365-11a1-4c04-a64f-b0c17fba5021" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0245.650.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0245.650.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.22" WIDTH="614" HEIGHT="18" DEPTH="350" TEXTDIMENSION="614 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="5c646d87-9c3b-4bf4-9665-904c6ce4c81a" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="341" UNIQUEPARENTID="345" GUID="d147370f-d74c-445e-89bd-0ba539b824d4" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.28" WIDTH="614" HEIGHT="18" DEPTH="450" TEXTDIMENSION="614 x 18 x 450" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="e1cd7aed-67f2-44e2-a4db-60ea700d24e6" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="340" UNIQUEPARENTID="345" GUID="a244b8f1-be8c-4e14-88bb-d5c66d1816a8" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.25" WIDTH="640" HEIGHT="6" DEPTH="390" TEXTDIMENSION="640 x 6 x 390" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="d984d50d-e278-465b-a44e-05ddd6d1a7b3" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="342" UNIQUEPARENTID="345" GUID="e6913e25-8f2f-46a4-931e-15fcee35fc79" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_sup" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.14" WIDTH="400" HEIGHT="18" DEPTH="350" TEXTDIMENSION="400 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="131418dc-66a4-4425-8d7d-a6804380efbb" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="344" UNIQUEPARENTID="345" GUID="7efd1a45-a436-4d92-a075-fa2ee16b6058" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="344;343" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <VISTAS REFERENCE="True" />
+                        <MOLDURAS REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_inf_bal_2p" DESCRIPTION="Balcão 2 Portas" OBSERVATIONS="" REFERENCE="1.0013.900.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="900" HEIGHT="660" DEPTH="560" TEXTDIMENSION="900 x 660 x 560" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Balcões" GUIDBUILDER="fab1caa9-55a6-4bf6-a747-812850a02a0a" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Inferiores\Balcoes\2p.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="306" UNIQUEPARENTID="-2" GUID="0522e09b-9f9b-4e76-a386-908c77230d13" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0013.900.Branco" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0013.900.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_inf_bal" DESCRIPTION="Balcão" OBSERVATIONS="" REFERENCE="1.0231.900.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="900" HEIGHT="660" DEPTH="560" TEXTDIMENSION="900 x 660 x 560" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Inferiores" GUIDBUILDER="83569560-7c5c-4e88-8769-9abbe961d66b" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\inferiores\balcao.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="294" UNIQUEPARENTID="306" GUID="ed1db5fa-5445-4b30-a1c3-73f9358fd1ce" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0231.900.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0231.900.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.49" WIDTH="864" HEIGHT="18" DEPTH="560" TEXTDIMENSION="864 x 18 x 560" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="edd3fd87-5445-4d43-9cdf-9b4a62c98601" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="293" UNIQUEPARENTID="294" GUID="1374ccbf-ad62-473c-a67c-9d26e11129e7" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.58" WIDTH="890" HEIGHT="6" DEPTH="650" TEXTDIMENSION="890 x 6 x 650" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="2bbf04a8-ca2c-45b6-a6cd-03472d598031" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="288" UNIQUEPARENTID="294" GUID="4c6127ec-a0c9-427e-9721-6403584b9b40" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_inf" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.37" WIDTH="660" HEIGHT="18" DEPTH="560" TEXTDIMENSION="660 x 18 x 560" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="9e4822fb-0bc2-429b-9723-f46fedb43d0b" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="292" UNIQUEPARENTID="294" GUID="35980262-3273-4eeb-8128-bf2d48692eba" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="292;291" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <TAMPO REFERENCE="True" />
+                        <RODAPE REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_sar_sar" DESCRIPTION="Sarrafo 18mm" OBSERVATIONS="" REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.09" WIDTH="864" HEIGHT="18" DEPTH="100" TEXTDIMENSION="864 x 18 x 100" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Sarrafos" GUIDBUILDER="dcbcc474-7397-4034-99bd-fdf5b475c95d" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\sarrafos\sarrafo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="290" UNIQUEPARENTID="294" GUID="ae93f8f6-ce03-4a3b-9bb1-1ca84fa37ef7" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="290;289" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_ret_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.29" WIDTH="439" HEIGHT="18" DEPTH="640" TEXTDIMENSION="439 x 18 x 640" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="33f1ffeb-a646-44a4-9c1c-9bb344d518ff" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Retas\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="304" UNIQUEPARENTID="306" GUID="916cc3b8-ba27-4dff-8582-14f7de4d6d32" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <METADATAS>
+                    <METADATA ID="UniqueIdCollection" VALUE="304;299" />
+                  </METADATAS>
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <REMOVEAGREGADO REFERENCE="FALSE" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+                <ITEM ID="coz_tampprat_prat_lin" DESCRIPTION="Prateleira Linear" OBSERVATIONS="" REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.46" WIDTH="864" HEIGHT="18" DEPTH="524" TEXTDIMENSION="864 x 18 x 524" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Prateleiras" GUIDBUILDER="1aa8a842-df50-4e87-84cf-dacc52e51877" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Tampos_Prateleiras\prateleiras\linear.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="305" UNIQUEPARENTID="306" GUID="6401473f-dc2b-47cc-a8c8-a908c41edb68" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0" />
+                    <FITA_BORDA_3 REFERENCE="0" />
+                    <FITA_BORDA_4 REFERENCE="0" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_inf_bal_2p" DESCRIPTION="Balcão 2 Portas" OBSERVATIONS="" REFERENCE="1.0013.1000.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1000" HEIGHT="660" DEPTH="500" TEXTDIMENSION="1000 x 660 x 500" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Balcões" GUIDBUILDER="2e01e8dd-36df-4584-a356-49b30e357fa5" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Inferiores\Balcoes\2p.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="205" UNIQUEPARENTID="-2" GUID="463bd3c5-b81b-42e9-be7e-aea7bddd95ed" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0013.1000.Branco" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0013.1000.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_inf_bal" DESCRIPTION="Balcão" OBSERVATIONS="" REFERENCE="1.0231.1000.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="1000" HEIGHT="660" DEPTH="500" TEXTDIMENSION="1000 x 660 x 500" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Inferiores" GUIDBUILDER="276c13e4-89f9-42c7-9ded-194c1e7a41a1" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\inferiores\balcao.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="193" UNIQUEPARENTID="205" GUID="5cb5c43b-f791-4b0d-9824-e0c0dceef2be" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0231.1000.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0231.1000.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.49" WIDTH="964" HEIGHT="18" DEPTH="500" TEXTDIMENSION="964 x 18 x 500" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="e493de05-3248-4bd4-819f-b34f8bfa584f" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="192" UNIQUEPARENTID="193" GUID="9c30cdba-3ad7-4f76-8180-a0442b4f80e4" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.65" WIDTH="990" HEIGHT="6" DEPTH="650" TEXTDIMENSION="990 x 6 x 650" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="d7573005-7ccc-43dd-b27e-211f08106a4f" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="187" UNIQUEPARENTID="193" GUID="f5618ae4-a678-4081-bb35-fe98fcf0762d" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_inf" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.33" WIDTH="660" HEIGHT="18" DEPTH="500" TEXTDIMENSION="660 x 18 x 500" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="b05d0cc8-05bc-482f-b89e-14ba00ebc71d" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="191" UNIQUEPARENTID="193" GUID="d76bbe37-8aa0-4f26-a06b-353d0a8d3dc3" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="191;190" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <TAMPO REFERENCE="True" />
+                        <RODAPE REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_sar_sar" DESCRIPTION="Sarrafo 18mm" OBSERVATIONS="" REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.1" WIDTH="964" HEIGHT="18" DEPTH="100" TEXTDIMENSION="964 x 18 x 100" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Sarrafos" GUIDBUILDER="968c6de7-f1a7-4f64-8e6d-07fdf77b4f96" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\sarrafos\sarrafo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="189" UNIQUEPARENTID="193" GUID="33cae85d-2a42-4e77-9b35-52db98aeca0a" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="189;188" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_comp_pai_pai" DESCRIPTION="Painel Horizontal" OBSERVATIONS="" REFERENCE="18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.55" WIDTH="1020" HEIGHT="18" DEPTH="530" TEXTDIMENSION="1020 x 18 x 530" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Painéis" GUIDBUILDER="ae1240c3-9719-47ab-9822-fa46c344511e" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\paineis\painel.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="418" UNIQUEPARENTID="205" GUID="d6f3dc35-e22e-4b8b-a71e-c3f098633aca" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0" />
+                    <FITA_BORDA_3 REFERENCE="0" />
+                    <FITA_BORDA_4 REFERENCE="0" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_ret_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.32" WIDTH="489" HEIGHT="18" DEPTH="640" TEXTDIMENSION="489 x 18 x 640" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="b99efeff-843c-4e03-af0f-a378c2b5db79" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Retas\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="203" UNIQUEPARENTID="205" GUID="e794aad8-359d-4c6b-815a-519389fddc46" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <METADATAS>
+                    <METADATA ID="UniqueIdCollection" VALUE="203;198" />
+                  </METADATAS>
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <REMOVEAGREGADO REFERENCE="FALSE" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+                <ITEM ID="coz_tampprat_prat_lin" DESCRIPTION="Prateleira Linear" OBSERVATIONS="" REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.45" WIDTH="964" HEIGHT="18" DEPTH="464" TEXTDIMENSION="964 x 18 x 464" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Prateleiras" GUIDBUILDER="f148ffe3-fb9e-4ffd-8952-fb51ef0c8b22" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Tampos_Prateleiras\prateleiras\linear.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="204" UNIQUEPARENTID="205" GUID="7c90e58c-c6ea-4328-8e16-ee68b771dc4a" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0" />
+                    <FITA_BORDA_3 REFERENCE="0" />
+                    <FITA_BORDA_4 REFERENCE="0" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_inf_gav_new_4g" DESCRIPTION="Balcão 4 Gavetas" OBSERVATIONS="" REFERENCE="1.0019.450.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="450" HEIGHT="660" DEPTH="560" TEXTDIMENSION="450 x 660 x 560" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveteiros" GUIDBUILDER="055bdddf-7c00-462c-af14-72bcc9703f1e" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Inferiores\Gaveteiros\4gav.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="271" UNIQUEPARENTID="-2" GUID="18fea729-f339-4bc8-bf74-25c3d0713bdd" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0019.450.Branco" />
+                <LARGURA_GAV REFERENCE="450" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0019.450.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_gav_gav" DESCRIPTION="Balcão Gav/Pia" OBSERVATIONS="" REFERENCE="1.0231.450.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="450" HEIGHT="660" DEPTH="560" TEXTDIMENSION="450 x 660 x 560" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Inferiores" GUIDBUILDER="db9cf9ee-b86d-408c-98c1-41b9a40c893e" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\inferiores\balcao.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="270" UNIQUEPARENTID="271" GUID="e7de9a9e-965a-484f-b016-0be17cf8881e" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0231.450.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0231.450.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.24" WIDTH="414" HEIGHT="18" DEPTH="560" TEXTDIMENSION="414 x 18 x 560" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="fa2f557c-9c82-418a-a587-d3b82d7aca0c" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="269" UNIQUEPARENTID="270" GUID="61a98127-80e7-43ec-8f3e-1a12b5ae279c" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_fun_fun" DESCRIPTION="Fundo 6mm" OBSERVATIONS="" REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.29" WIDTH="440" HEIGHT="6" DEPTH="650" TEXTDIMENSION="440 x 6 x 650" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Fundos" GUIDBUILDER="80ea4747-9a28-4e45-94b1-3d289831dfca" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\fundos\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="266" UNIQUEPARENTID="270" GUID="b8b92a73-df4c-47fe-b82b-852489f24fe8" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2014.6.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="6.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="6" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_inf" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.37" WIDTH="660" HEIGHT="18" DEPTH="560" TEXTDIMENSION="660 x 18 x 560" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="4f647ffc-aaf2-416e-b34a-ea2173a78ff8" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="268" UNIQUEPARENTID="270" GUID="ea70b847-c31c-4e85-a83b-32dd8cbb9708" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="268;267" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <TAMPO REFERENCE="True" />
+                        <RODAPE REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_sar_sar" DESCRIPTION="Sarrafo 18mm" OBSERVATIONS="" REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.05" WIDTH="414" HEIGHT="18" DEPTH="100" TEXTDIMENSION="414 x 18 x 100" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Sarrafos" GUIDBUILDER="5c7afc68-6b8c-4173-b71e-4893ff8a3e78" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\sarrafos\sarrafo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="265" UNIQUEPARENTID="270" GUID="5fe4cd6f-663c-4853-8830-d89c42305517" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="265;264" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2020.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_cai_div_gav" DESCRIPTION="Caixa Gaveta c/ Contra Frente" OBSERVATIONS="" REFERENCE="1.0252.388.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="388" HEIGHT="118.5" DEPTH="524" TEXTDIMENSION="388 x 118,5 x 524" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Diversas" GUIDBUILDER="0111e4ef-9fc3-4114-b9d6-fca0b0a65c58" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\diversas\gaveta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="263" UNIQUEPARENTID="271" GUID="67f46ff6-b6ba-4a37-96e3-25481d8a9885" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0252.388.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0252.388.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="E82" DESCRIPTION="Contra Frente de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="92ee3943-e736-4e0f-bb67-0da6766e075f" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="262" UNIQUEPARENTID="263" GUID="3c4d5fe3-667d-411c-adda-64647923011e" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="fundo" DESCRIPTION="Fundo de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.18" WIDTH="358" HEIGHT="15" DEPTH="494" TEXTDIMENSION="358 x 15 x 494" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="2c7db1a4-d640-4575-9989-c147c89bc4fa" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="261" UNIQUEPARENTID="263" GUID="2df76181-c169-42b1-81a4-94fbaf51cf2f" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="lateral_gaveta" DESCRIPTION="Lateral de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.07" WIDTH="118.5" HEIGHT="15" DEPTH="524" TEXTDIMENSION="118,5 x 15 x 524" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="56b1d5eb-2173-442e-8632-32cf3a790990" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="259" UNIQUEPARENTID="263" GUID="7c31d858-4b47-4426-840f-8e84710e9b94" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="259;258" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="E81" DESCRIPTION="Posterior de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="5a2b1477-a050-4179-ad7e-6f55374d2db0" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="260" UNIQUEPARENTID="263" GUID="3bd3ed46-69c1-4316-a6b8-f3a568b0ff63" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_cai_div_gav" DESCRIPTION="Caixa Gaveta c/ Contra Frente" OBSERVATIONS="" REFERENCE="1.0252.388.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="388" HEIGHT="118.5" DEPTH="524" TEXTDIMENSION="388 x 118,5 x 524" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Diversas" GUIDBUILDER="b07c086a-3227-4832-9478-e0b89d61fb2e" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\diversas\gaveta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="256" UNIQUEPARENTID="271" GUID="afaf3a20-980d-490a-b8c1-de21f8b9a909" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0252.388.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0252.388.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="E82" DESCRIPTION="Contra Frente de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="d3233389-e533-4bde-af6b-bf9ee33f7118" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="255" UNIQUEPARENTID="256" GUID="da502217-3f7d-48ec-9542-4192974d84a6" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="fundo" DESCRIPTION="Fundo de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.18" WIDTH="358" HEIGHT="15" DEPTH="494" TEXTDIMENSION="358 x 15 x 494" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="bbbc5922-bef1-499c-8e95-bbba86b736ca" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="254" UNIQUEPARENTID="256" GUID="433d240b-70eb-4959-858c-5df6250a1615" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="lateral_gaveta" DESCRIPTION="Lateral de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.07" WIDTH="118.5" HEIGHT="15" DEPTH="524" TEXTDIMENSION="118,5 x 15 x 524" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="929d1bad-ea6f-47bb-b59e-df8a42a32558" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="252" UNIQUEPARENTID="256" GUID="6cc77a71-b73b-49e7-8d06-9c2c25b4d8b4" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="252;251" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="E81" DESCRIPTION="Posterior de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="53b8b3a3-6159-40a7-8fe3-2a7558b2f964" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="253" UNIQUEPARENTID="256" GUID="15410632-07f9-417a-9a7c-7ead599156c8" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_cai_div_gav" DESCRIPTION="Caixa Gaveta c/ Contra Frente" OBSERVATIONS="" REFERENCE="1.0252.388.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="388" HEIGHT="118.5" DEPTH="524" TEXTDIMENSION="388 x 118,5 x 524" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Diversas" GUIDBUILDER="2edec671-9b4e-414b-a4bb-fda51e740976" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\diversas\gaveta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="249" UNIQUEPARENTID="271" GUID="84dcfd42-1e96-4edf-8158-605a4565336b" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0252.388.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0252.388.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="E82" DESCRIPTION="Contra Frente de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="a91c2cbb-0ded-4e21-901a-0bf23a5e8dfb" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="248" UNIQUEPARENTID="249" GUID="02bbacf0-1162-4ebc-8362-f7e4fa664e7c" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="fundo" DESCRIPTION="Fundo de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.18" WIDTH="358" HEIGHT="15" DEPTH="494" TEXTDIMENSION="358 x 15 x 494" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="0ca30a83-946f-4f70-a992-8221277115d1" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="247" UNIQUEPARENTID="249" GUID="f27c6a35-6568-40fa-89e6-bc898973a5a4" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="lateral_gaveta" DESCRIPTION="Lateral de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.07" WIDTH="118.5" HEIGHT="15" DEPTH="524" TEXTDIMENSION="118,5 x 15 x 524" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="b9ebd96e-38ed-40f4-98ad-77b54919a470" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="245" UNIQUEPARENTID="249" GUID="124f233d-8c1f-4a46-919d-69581fe1d15c" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="245;244" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="E81" DESCRIPTION="Posterior de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="09b877b7-065b-4abb-8188-3f444b7b7299" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="246" UNIQUEPARENTID="249" GUID="59c22ef9-49fb-4ad7-8e0d-07bd41199ca3" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_cai_div_gav" DESCRIPTION="Caixa Gaveta c/ Contra Frente" OBSERVATIONS="" REFERENCE="1.0252.388.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="388" HEIGHT="118.5" DEPTH="524" TEXTDIMENSION="388 x 118,5 x 524" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Diversas" GUIDBUILDER="967d9cc8-abcf-4e82-85b6-92185d39b8f0" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\diversas\gaveta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="242" UNIQUEPARENTID="271" GUID="7f8f8c75-7560-4684-9222-60883ad74154" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0252.388.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0252.388.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="E82" DESCRIPTION="Contra Frente de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="ccb8c171-a812-4171-9864-bc88bbcd06b5" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="241" UNIQUEPARENTID="242" GUID="55f3814f-f7cb-4de8-b2b8-ea7a62b11444" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2057.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="fundo" DESCRIPTION="Fundo de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.18" WIDTH="358" HEIGHT="15" DEPTH="494" TEXTDIMENSION="358 x 15 x 494" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="7aa7b7de-978b-4c7c-a929-c7afd097f208" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\fundo.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="240" UNIQUEPARENTID="242" GUID="c9062d3c-fdd6-4fe5-a2c7-49a918a17fa4" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2056.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="lateral_gaveta" DESCRIPTION="Lateral de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.07" WIDTH="118.5" HEIGHT="15" DEPTH="524" TEXTDIMENSION="118,5 x 15 x 524" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="5f4fb215-ba0d-42fe-abeb-403b8731b6b3" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="238" UNIQUEPARENTID="242" GUID="d8b1edc4-2ba0-4f71-8112-1854c81ab3c9" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="238;237" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2054.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="E81" DESCRIPTION="Posterior de Gaveta 15mm" OBSERVATIONS="" REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.05" WIDTH="118.5" HEIGHT="15" DEPTH="358" TEXTDIMENSION="118,5 x 15 x 358" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Gaveta" GUIDBUILDER="82219cd8-adf6-4696-9b86-4ed0d80d8673" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\gaveta\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="239" UNIQUEPARENTID="242" GUID="4b9b75a7-39b0-499f-941b-9710a40e0043" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2055.15.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="15.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="15" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_port_fre_fre_ret" DESCRIPTION="Frente Reta" OBSERVATIONS="" REFERENCE="1.0191.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="4" QUANTITY="0.07" WIDTH="430" HEIGHT="18" DEPTH="158.5" TEXTDIMENSION="430 x 18 x 158,5" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="501f20c7-4501-410b-9960-c4bfb0030a87" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Frentes\1 Puxador\Madeira\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="283" UNIQUEPARENTID="271" GUID="0eb47026-12cc-4bb4-8361-19250a837952" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <METADATAS>
+                    <METADATA ID="UniqueIdCollection" VALUE="283;274;277;280" />
+                  </METADATAS>
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0191.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <CONTRAFRENTE REFERENCE="S" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <FRENTE REFERENCE="MAD" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_pan_arm_1p" DESCRIPTION="Despenseiro c/ 1 Porta" OBSERVATIONS="" REFERENCE="1.0040.400.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="400" HEIGHT="2050" DEPTH="350" TEXTDIMENSION="400 x 2050 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Despenseiros" GUIDBUILDER="044b5453-6c05-4502-ad83-b954c06faf57" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Despenseiros\Armarios\1p.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="497" UNIQUEPARENTID="-2" GUID="30bca3e7-a22d-44b6-80cd-aebcafc51698" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0040.400.Branco" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="1.0040.400.Branco" />
+              </REFERENCES>
+              <ITEMS>
+                <ITEM ID="coz_cai_inf_pan" DESCRIPTION="Caixa Despenseiro" OBSERVATIONS="" REFERENCE="1.0235.400.Branco" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="400" HEIGHT="2050" DEPTH="350" TEXTDIMENSION="400 x 2050 x 350" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Inferiores" GUIDBUILDER="3e727552-933d-45f1-bf0a-3dd7f5c877cd" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\caixas\inferiores\paneleiro.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="485" UNIQUEPARENTID="497" GUID="771baed4-c629-4004-a72b-9ac0cc49898f" PLATECUTTINGROTATE="N">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0235.400.Branco" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                    <PRICE REFERENCE="1.0235.400.Branco" />
+                  </REFERENCES>
+                  <ITEMS>
+                    <ITEM ID="coz_comp_bas_bas" DESCRIPTION="Base 18mm" OBSERVATIONS="" REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.13" WIDTH="364" HEIGHT="18" DEPTH="350" TEXTDIMENSION="364 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Bases" GUIDBUILDER="18b4629f-6404-4be3-9265-c163071b7450" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\bases\base.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="481" UNIQUEPARENTID="485" GUID="fc78258b-b508-4cc4-b407-87c8df4cd73e" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="481;480" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2006.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                    <ITEM ID="coz_comp_lat_lat_inf" DESCRIPTION="Lateral 18mm" OBSERVATIONS="" REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.72" WIDTH="2050" HEIGHT="18" DEPTH="350" TEXTDIMENSION="2050 x 18 x 350" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Laterais/Divisórias" GUIDBUILDER="48a975fd-b5c1-458b-b4ad-1c26b1ba53de" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\composicao\laterais\lateral.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="483" UNIQUEPARENTID="485" GUID="a1a3678e-1ba1-4fe1-8c45-66042088df9c" PLATECUTTINGROTATE="NONE">
+                      <SHAPE />
+                      <METADATAS>
+                        <METADATA ID="UniqueIdCollection" VALUE="483;482" />
+                      </METADATAS>
+                      <REFERENCES>
+                        <COMPLETE REFERENCE="1.2001.18.Branco.MDF BP 2L Revest" />
+                        <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                        <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                        <MODEL REFERENCE="Branco" />
+                        <MAXWIDTH REFERENCE="2750" />
+                        <MAXDEPTH REFERENCE="1830" />
+                        <THICKNESS REFERENCE="18" />
+                        <FITA_BORDA_1 REFERENCE="0.4" />
+                        <FITA_BORDA_2 REFERENCE="0" />
+                        <FITA_BORDA_3 REFERENCE="0" />
+                        <FITA_BORDA_4 REFERENCE="0" />
+                        <TAMPO REFERENCE="False" />
+                        <RODAPE REFERENCE="True" />
+                        <SUPPLIER REFERENCE="" />
+                        <MODEL_DESCRIPTION REFERENCE="Branco" />
+                        <LINE REFERENCE="Cores" />
+                        <LARGURA_CHAPA REFERENCE="YYY" />
+                        <ALTURA_CHAPA REFERENCE="OOO" />
+                      </REFERENCES>
+                    </ITEM>
+                  </ITEMS>
+                </ITEM>
+                <ITEM ID="coz_ret_fre_desp_ret" DESCRIPTION="Porta Reta" OBSERVATIONS="" REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.78" WIDTH="380" HEIGHT="18" DEPTH="2030" TEXTDIMENSION="380 x 18 x 2030" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Madeira" GUIDBUILDER="d946f993-09c9-4cee-bb68-b5e064fabbb0" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Portas_Frentes\Despenseiros\Madeiras\Reta.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="492" UNIQUEPARENTID="497" GUID="ce8c1282-14e1-43c0-aeb3-fe57a3ec4659" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0185.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <REMOVEAGREGADO REFERENCE="FALSE" />
+                    <FORMA REFERENCE="Porta/Frente Reta" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0.4" />
+                    <FITA_BORDA_3 REFERENCE="0.4" />
+                    <FITA_BORDA_4 REFERENCE="0.4" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+                <ITEM ID="coz_tampprat_prat_lin" DESCRIPTION="Prateleira Linear" OBSERVATIONS="" REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.12" WIDTH="364" HEIGHT="18" DEPTH="314" TEXTDIMENSION="364 x 18 x 314" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Prateleiras" GUIDBUILDER="f26c5251-de1a-4af0-bc63-4413672c252f" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Tampos_Prateleiras\prateleiras\linear.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="496" UNIQUEPARENTID="497" GUID="c1008329-070a-4e37-a967-57d7dee76f97" PLATECUTTINGROTATE="NONE">
+                  <SHAPE />
+                  <REFERENCES>
+                    <COMPLETE REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" />
+                    <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                    <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                    <MODEL REFERENCE="Branco" />
+                    <MAXWIDTH REFERENCE="2750" />
+                    <MAXDEPTH REFERENCE="1830" />
+                    <THICKNESS REFERENCE="18" />
+                    <FITA_BORDA_1 REFERENCE="0.4" />
+                    <FITA_BORDA_2 REFERENCE="0" />
+                    <FITA_BORDA_3 REFERENCE="0" />
+                    <FITA_BORDA_4 REFERENCE="0" />
+                    <SUPPLIER REFERENCE="" />
+                    <MODEL_DESCRIPTION REFERENCE="Branco" />
+                    <LINE REFERENCE="Cores" />
+                    <LARGURA_CHAPA REFERENCE="YYY" />
+                    <ALTURA_CHAPA REFERENCE="OOO" />
+                  </REFERENCES>
+                </ITEM>
+              </ITEMS>
+            </ITEM>
+            <ITEM ID="coz_tampprat_tampon_inf" DESCRIPTION="Tamponamento Inferior" OBSERVATIONS="" REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="2" QUANTITY="0.3" WIDTH="780" HEIGHT="18" DEPTH="377" TEXTDIMENSION="780 x 18 x 377" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Tamponamentos" GUIDBUILDER="03837554-c61c-452e-8377-b99dbc40114f" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Tampos_Prateleiras\tamponamentos\Inferior_3.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="605" UNIQUEPARENTID="-2" GUID="ab90f6f3-97a9-42ed-88b2-8c521b2400ca" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="605;604" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" />
+                <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                <MODEL REFERENCE="Branco" />
+                <MAXWIDTH REFERENCE="2750" />
+                <MAXDEPTH REFERENCE="1830" />
+                <THICKNESS REFERENCE="18" />
+                <FITA_BORDA_1 REFERENCE="0.4" />
+                <FITA_BORDA_2 REFERENCE="0.4" />
+                <FITA_BORDA_3 REFERENCE="0" />
+                <FITA_BORDA_4 REFERENCE="0" />
+                <SUPPLIER REFERENCE="" />
+                <MODEL_DESCRIPTION REFERENCE="Branco" />
+                <LINE REFERENCE="Cores" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="coz_tampprat_tampon_inf" DESCRIPTION="Tamponamento Inferior" OBSERVATIONS="" REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" UNIT="M2" REPETITION="1" QUANTITY="0.31" WIDTH="800" HEIGHT="18" DEPTH="377" TEXTDIMENSION="800 x 18 x 377" COMPONENT="Y" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Tamponamentos" GUIDBUILDER="b145df88-42d9-45b3-986b-b36dda89ec82" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\Tampos_Prateleiras\tamponamentos\Inferior_3.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="609" UNIQUEPARENTID="-2" GUID="5009ea62-3e59-45d1-a9bd-8d37fdae9464" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.0155.18.Branco.MDF BP 2L Revest" />
+                <PRICE REFERENCE="18.Branco.MDF BP 2L Revest" />
+                <MATERIAL REFERENCE="MDF BP 2L Revest" />
+                <MODEL REFERENCE="Branco" />
+                <MAXWIDTH REFERENCE="2750" />
+                <MAXDEPTH REFERENCE="1830" />
+                <THICKNESS REFERENCE="18" />
+                <FITA_BORDA_1 REFERENCE="0.4" />
+                <FITA_BORDA_2 REFERENCE="0.4" />
+                <FITA_BORDA_3 REFERENCE="0" />
+                <FITA_BORDA_4 REFERENCE="0" />
+                <SUPPLIER REFERENCE="" />
+                <MODEL_DESCRIPTION REFERENCE="Branco" />
+                <LINE REFERENCE="Cores" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Hettich">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="het_pis_9079603" DESCRIPTION="LIFT ADVANCED HK 276-720 - CONTATAR SAC PARA VER UTILIZAÇÃO" OBSERVATIONS="" REFERENCE="9079603" UNIT="UN" REPETITION="3" QUANTITY="1" WIDTH="15" HEIGHT="92" DEPTH="95" TEXTDIMENSION="15 x 92 x 95" COMPONENT="N" STRUCTURE="N" FAMILY="Hettich" GROUP="Pistões" GUIDBUILDER="e1cccde1-e9c0-44fe-a73e-b07b14359baa" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Hettich\pistoes\9079605.JPG" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Hettich" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="598" UNIQUEPARENTID="-2" GUID="ad0a75e4-b54f-4629-9902-ac61eedd6fac" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="598;544;586" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="9079603" />
+                <PRICE REFERENCE="9079603" />
+              </REFERENCES>
+            </ITEM>
+            <ITEM ID="het_ocu_pis_9079618" DESCRIPTION="PISTAO LIFT ADVANCED 1 - CONTATAR SAC PARA VER UTILIZAÇÃO" OBSERVATIONS="" REFERENCE="9079618" UNIT="UN" REPETITION="3" QUANTITY="1" WIDTH="14" HEIGHT="13" DEPTH="128" TEXTDIMENSION="14 x 13 x 128" COMPONENT="N" STRUCTURE="N" FAMILY="Hettich" GROUP="Pistões" GUIDBUILDER="8d7547e3-92e8-4670-9b37-958f2df930d2" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\Hettich\Ocultos\Pistoes\pistao.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Hettich" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="600" UNIQUEPARENTID="-2" GUID="91795ba9-249c-4fc6-a390-c661ac891148" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="600;543;585" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="9079618" />
+                <PRICE REFERENCE="9079618" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Masutti Copat">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="4587" DESCRIPTION="Escorredor de Louças c/ Bandeja " OBSERVATIONS="" REFERENCE="4587" UNIT="UN" REPETITION="1" QUANTITY="1" WIDTH="870" HEIGHT="100" DEPTH="260" TEXTDIMENSION="870 x 100 x 260" COMPONENT="N" STRUCTURE="N" FAMILY="Masutti Copat" GROUP="Escorredores" GUIDBUILDER="b2b91683-f7b9-4fa4-8c76-1131834a2b21" ISAGGREGATEGROUP="N" IMAGE="%PastaSistema%\Bibliotecas\masutti_copat\aco_inox\mas_cop_aco_59\4587.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="MasuttiCopat" IDPRICESOURCE="MasuttiCopat" IDPRICETABLE="" UNIQUEID="574" UNIQUEPARENTID="-2" GUID="8df30e03-d47b-4dc1-b868-8e747f16c9de" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <REFERENCES>
+                <COMPLETE REFERENCE="4587" />
+                <PRICE REFERENCE="4587" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Processo de Fabricação">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="coz_ocu_pro_fabricacao" DESCRIPTION="Processo de Fabricação" OBSERVATIONS="" REFERENCE="Porta/Frente Reta" UNIT="UN" REPETITION="12" QUANTITY="1" WIDTH="10" HEIGHT="10" DEPTH="10" TEXTDIMENSION="10 x 10 x 10" COMPONENT="N" STRUCTURE="N" FAMILY="Cozinhas" GROUP="Ocultos" GUIDBUILDER="758e1db5-ac46-43b9-b0ee-64e2f7c36b6d" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\Cozinhas\ocultos\vazia.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="303" UNIQUEPARENTID="-2" GUID="2e7dad07-ce93-49f0-bad3-4885afd74c17" PLATECUTTINGROTATE="N">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="303;197;202;491;540;582;597;273;276;279;282;298" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="Porta/Frente Reta" />
+                <LARGURA_CHAPA REFERENCE="YYY" />
+                <ALTURA_CHAPA REFERENCE="OOO" />
+                <PRICE REFERENCE="Porta/Frente Reta" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+        <CATEGORY DESCRIPTION="Puxadores">
+          <TOTALPRICES />
+          <ITEMS>
+            <ITEM ID="coz_port_frent_pux_PU_14" DESCRIPTION="Puxador" OBSERVATIONS="" REFERENCE="1.1042.000" UNIT="UN" REPETITION="12" QUANTITY="1" WIDTH="180" HEIGHT="16" DEPTH="20" TEXTDIMENSION="180 x 16 x 20" COMPONENT="N" STRUCTURE="N" FAMILY="Puxadores" GROUP="Plus" GUIDBUILDER="cb45ba94-92e0-4087-a0be-c19d1eda3eb1" ISAGGREGATEGROUP="Y" IMAGE="%PastaSistema%\Bibliotecas\Puxadores\Plus\PU_14.jpg" RULEQUANTITYINCREASE="N" SHOWPRICE="Y" RULEQUANTITYINCREASEPERCENT="0" IDPRICEPROVIDER="Plus" IDPRICESOURCE="BancoDados" IDPRICETABLE="" UNIQUEID="300" UNIQUEPARENTID="-2" GUID="98de4d70-5932-4c26-96f8-be3fdcc5868b" PLATECUTTINGROTATE="NONE">
+              <SHAPE />
+              <METADATAS>
+                <METADATA ID="UniqueIdCollection" VALUE="300;222;221;486;539;581;596;272;275;278;281;295" />
+              </METADATAS>
+              <REFERENCES>
+                <COMPLETE REFERENCE="1.1042.000" />
+                <PRICE REFERENCE="1.1042.000" />
+              </REFERENCES>
+            </ITEM>
+          </ITEMS>
+        </CATEGORY>
+      </CATEGORIES>
+    </AMBIENT>
+  </AMBIENTS>
+</LISTING>
