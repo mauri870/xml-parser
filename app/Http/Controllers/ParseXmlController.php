@@ -36,17 +36,41 @@ class ParseXmlController extends Controller
     {
         $this->parser = simplexml_load_file('img/cozinha.xml');
 
-        /*foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY->ITEMS->ITEM as $item){
-             $this->setDescricao($this->getItemDescription($item));
-             $this->getClientName();
+
+        //Loop in categories
+        foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
+            //Loop items
+            foreach($category->ITEMS->ITEM as $item){
+                if ($item->attributes()->COMPONENT == "Y"){
+                    //Set item description
+                    $this->setDescricao(
+                        $this->getItemDescription($item))
+
+                        //Set Client name
+                        ->setCliente($this->getClientName())
+
+                        //Get the material
+                        ->setMaterial($this->getMaterialName($item))
+
+                        //get the sizes
+                        ->setComprimento($this->getItemSizes($item,'WIDTH'))
+                        ->setLargura($this->getItemSizes($item,'DEPTH'))
+                        ->setEspessura($this->getItemSizes($item,'THICKNESS'));
 
 
 
-            echo $this->getDescricao().'<br>'.$this->getClientName();
-            echo '<hr>';
-        }*/
 
-        $i = 0;
+
+                    /*echo "<pre>";
+                    print_r();
+                    echo "<pre>";
+                    echo '<hr>';
+                    exit;*/
+                }
+            }
+        }
+
+        /*$i = 0;
         foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
             if($category->attributes()->DESCRIPTION == "Cozinhas"){
                 foreach($category->ITEMS->ITEM as $item){
@@ -56,12 +80,11 @@ class ParseXmlController extends Controller
                     $i++;
                 }
             }
-        }
-
+        }*/
         //Get the itens array()
-        echo "<pre>";
-            print_r($total_items)  ;
-        echo "<pre>";
+        /*echo "<pre>";
+            print_r()  ;
+        echo "<pre>";*/
 
 
         /*return view('welcome');*/
@@ -69,7 +92,7 @@ class ParseXmlController extends Controller
 
 
     /**
-     * Get the description from XML file based on ITEM object
+     * Get the description for an item
      *
      * @param $item
      * @return mixed
@@ -79,11 +102,43 @@ class ParseXmlController extends Controller
     }
 
     /**
-     * Get the client name from XML file
+     * Get the client name for an item
      * @return mixed
      */
     public function getClientName(){
         return (string)$this->parser->CUSTOMERSDATA->DATA[4]->attributes()->VALUE;
+    }
+
+    /**
+     * Get the Material for an item
+     * @return mixed
+     */
+    public function getMaterialName($item){
+        return (string)$item->REFERENCES->MATERIAL->attributes()->REFERENCE;
+    }
+
+
+    /**
+     * Get the item sizes
+     *
+     * @param $item
+     * @param $measure string WIDTH, HEIGHT or THICKNESS
+     * @return string
+     */
+    public function getItemSizes($item,$measure){
+        if($measure == 'THICKNESS'){
+            return (string)$item->REFERENCES->THICKNESS->attributes()->REFERENCE;
+        }else{
+            return $item->attributes()->$measure;
+        }
+    }
+
+    /**
+     * Get the Ambient description
+     * @return mixed
+     */
+    public function getAmbientDescription(){
+        return (string)$this->parser->AMBIENTS->AMBIENT->attributes()->DESCRIPTION;
     }
 
 
