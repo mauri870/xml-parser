@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use Nathanmac\Utilities\Parser\Facades\Parser;
+use Maatwebsite\Excel\Facades\Excel;
 
 class ParseXmlController extends Controller
 {
@@ -38,10 +38,12 @@ class ParseXmlController extends Controller
 
 
         //Loop in categories
+        $i = 0;
         foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
             //Loop items
             foreach($category->ITEMS->ITEM as $item){
                 if ($item->attributes()->COMPONENT == "Y"){
+
                     //Set item description
                     $this->setDescricao(
                         $this->getItemDescription($item))
@@ -49,26 +51,51 @@ class ParseXmlController extends Controller
                         //Set Client name
                         ->setCliente($this->getClientName())
 
-                        //Get the material
+                        //Set the material
                         ->setMaterial($this->getMaterialName($item))
 
-                        //get the sizes
+                        //Set the sizes
                         ->setComprimento($this->getItemSizes($item,'WIDTH'))
                         ->setLargura($this->getItemSizes($item,'DEPTH'))
-                        ->setEspessura($this->getItemSizes($item,'THICKNESS'));
+                        ->setEspessura($this->getItemSizes($item,'THICKNESS'))
 
+                        //Set Bordas
+                        ->setBordaInferior($this->getBordaInferiorItem($item))
+                        ->setBordaSuperior($this->getBordaSuperiorItem($item))
+                        ->setBordaEsquerda($this->getBordaEsquerdaItem($item))
+                        ->setBordaDireita($this->getBordaDireitaItem($item));
 
+                    $total_items[$i] = [
+                        'Codigo'=>$i,
+                        'Descricao'=>$this->getDescricao(),
+                        'Cliente'=>$this->getCliente(),
+                        'Material'=>$this->getMaterial(),
+                        'Comprimento'=>$this->getComprimento(),
+                        'Largura'=>$this->getLargura(),
+                        'Espessura'=>$this->getEspessura(),
+                        'BordaInferior'=>$this->getBordaInferior(),
+                        'BordaSuperior'=>$this->getBordaSuperior(),
+                        'BordaEsquerda'=>$this->getBordaEsquerda(),
+                        'BordaDireita'=>$this->getBordaDireita()
+                    ];
 
-
-
-                    /*echo "<pre>";
-                    print_r();
-                    echo "<pre>";
-                    echo '<hr>';
-                    exit;*/
+                    $i++;
                 }
             }
         }
+
+        dd($total_items);
+
+        Excel::create('Teste', function($excel) use($total_items) {
+            $excel->sheet('Sheet1', function($sheet) use($total_items) {
+                $sheet->cells('A:Z', function($cells) {
+                    $cells->setAlignment('center');
+                });
+
+                $sheet->fromArray($total_items);
+
+            });
+        })->export('xls');
 
         /*$i = 0;
         foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
@@ -117,6 +144,46 @@ class ParseXmlController extends Controller
         return (string)$item->REFERENCES->MATERIAL->attributes()->REFERENCE;
     }
 
+
+    /**
+     * Get Borda Inferior from Item
+     *
+     * @param $item
+     * @return string
+     */
+    public function getBordaInferiorItem($item){
+        return (string)$item->REFERENCES->FITA_BORDA_1->attributes()->REFERENCE;
+    }
+
+    /**
+     * Get Borda Superior from Item
+     *
+     * @param $item
+     * @return string
+     */
+    public function getBordaSuperiorItem($item){
+        return (string)$item->REFERENCES->FITA_BORDA_2->attributes()->REFERENCE;
+    }
+
+    /**
+     * Get Borda Esquerda from Item
+     *
+     * @param $item
+     * @return string
+     */
+    public function getBordaEsquerdaItem($item){
+        return (string)$item->REFERENCES->FITA_BORDA_3->attributes()->REFERENCE;
+    }
+
+    /**
+     * Get Borda Direita from Item
+     *
+     * @param $item
+     * @return string
+     */
+    public function getBordaDireitaItem($item){
+        return (string)$item->REFERENCES->FITA_BORDA_4->attributes()->REFERENCE;
+    }
 
     /**
      * Get the item sizes
