@@ -38,7 +38,7 @@ class ParseXmlController extends Controller
 
 
         //Loop in categories
-        $i = 0;
+        $i = 1;
         foreach($this->parser->AMBIENTS->AMBIENT->CATEGORIES->CATEGORY as $category){
             //Loop items
             foreach($category->ITEMS->ITEM as $item){
@@ -83,8 +83,6 @@ class ParseXmlController extends Controller
                 }
             }
         }
-
-        dd($total_items);
 
         Excel::create('Teste', function($excel) use($total_items) {
             $excel->sheet('Sheet1', function($sheet) use($total_items) {
